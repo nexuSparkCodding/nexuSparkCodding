@@ -21,9 +21,9 @@ tr us [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labe
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient)  -->
 
-<div style="text-align:center;">
+<div style="display:"flex; justify-content:center;">
   <img src="https://i.ibb.co/rHfyRtg/nexu-Spark-BG.png" width="750px">
-</div>
+
 
 
 ## Hi Guys 🙌
@@ -35,5 +35,5 @@ _📚 Here is a complete list of quick codings and guides you can find on this g
 * **Back-End Basics Guide** _(📹 Will be supported by yotube videos.)_
 
 ## 🔭 Working & 🌱 Learning
-
+</div>
 
