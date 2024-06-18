@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **nexuSparkCodding/nexuSparkCodding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,3 +23,4 @@ tr us [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labe
 
 <img src="https://i.ibb.co/rHfyRtg/nexu-Spark-BG.png">
 
+** Hi Guys!
