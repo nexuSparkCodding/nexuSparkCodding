@@ -58,3 +58,7 @@ _📚 Here is a complete list of quick codings and guides you can find on this g
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" alt="terminal" width="40" height="40"/>
 </p>
 
+## Activity
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=nexuSparkCodding&show_icons=true&theme=radical)
+
+
