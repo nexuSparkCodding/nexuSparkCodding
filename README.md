@@ -21,10 +21,10 @@ tr us [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labe
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient)  -->
 
-<div style="display:"flex; justify-content:center;">
+<p align="center">
   <img src="https://i.ibb.co/rHfyRtg/nexu-Spark-BG.png" width="750px">
-
-
+</p>
+  
 
 ## Hi Guys 🙌
 📫I'm here to offer you a great opportunity! A lot of things you will find on this github account will make your life easier! <br>
@@ -35,5 +35,12 @@ _📚 Here is a complete list of quick codings and guides you can find on this g
 * **Back-End Basics Guide** _(📹 Will be supported by yotube videos.)_
 
 ## 🔭 Working & 🌱 Learning
-</div>
+<p align="center" style="padding-right: 15px;" >
+   <img src="https://i.ibb.co/PQ6rC3H/html.png">
+   <img src="https://i.ibb.co/BTYjZvZ/css.png">
+   <img src="https://i.ibb.co/9nn15hj/react.png">
+   <img src="https://i.ibb.co/t2vMMMN/py.png">
+   <img src="https://i.ibb.co/bN0XF2T/flutter.png">
+   <img src="https://i.ibb.co/yFnnXq0/ai.png">
+</p>
 
