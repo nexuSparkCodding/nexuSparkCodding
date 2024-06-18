@@ -24,3 +24,4 @@ tr us [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labe
 <img src="https://i.ibb.co/rHfyRtg/nexu-Spark-BG.png">
 
 ## Hi Guys 🙌
+I'm here to offer you a great opportunity! A lot of things you will find on this github account will make your life easier!
