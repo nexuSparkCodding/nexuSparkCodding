@@ -24,5 +24,5 @@ tr us [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labe
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient)  -->
 
 
-<img width="750px" src="https://i.ibb.co/rHfyRtg/nexu-Spark-BG.png">
+<img width="750px" src="https://i.ibb.co/rHfyRtg/nexu-Spark-BG.png" style="align-item:center;">
 
