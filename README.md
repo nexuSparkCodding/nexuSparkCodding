@@ -31,8 +31,8 @@ tr us [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labe
 _📚 Here is a complete list of quick codings and guides you can find on this github account_ <br>
 * **Front-End Development Libraries** _(📹 Will be supported by instagram reels.)_ 
 * **Back-End Development Libraries**  _(📹 Will be supported by instagram reels.)_
-* **Dart Basics Guide**  _(📹 Will be supported by yotube videos.)_
-* **Back-End Basics Guide** _(📹 Will be supported by yotube videos.)_
+* **Dart Basics Guide**  _(📹 Will be supported by youtube videos.)_
+* **Back-End Basics Guide** _(📹 Will be supported by youtube videos.)_
 
 ## Connect with me:
 <p align="left">
