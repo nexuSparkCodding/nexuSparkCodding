@@ -56,6 +56,7 @@ _📚 Here is a complete list of quick codings and guides you can find on this g
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="git" width="40" height="40"/>
   <img src="https://pngimg.com/uploads/github/github_PNG51.png" alt="github" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" alt="terminal" width="40" height="40"/>
+  <img src="https://github.com/nexuSparkCodding/nexuSparkCodding/assets/173151857/ca6aac36-2863-4509-b8d8-1d9f47ab6ac4" alt="terminal" width="40" height="40"/>
 </p>
 
 ## Activity
